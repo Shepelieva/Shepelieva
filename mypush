@@ -3,5 +3,5 @@
 git init
 git add .
 git commit -a -m 'startc'
-#git remote add startc git@github.com:shepelieva/ntpsync.git
+#git remote add start git@github.com:shepelieva/start.git
 git push -u start master
