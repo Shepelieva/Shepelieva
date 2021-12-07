@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git init
+git add .
+git commit -a -m 'startc'
+#git remote add startc git@github.com:shepelieva/ntpsync.git
+git push -u startc master
